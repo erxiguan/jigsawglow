@@ -1,0 +1,110 @@
+Terms of Service & EULA — Jigsaw Glow Jigsaw Glow
+Terms of Service &
+End User License Agreement
+
+Please read these terms before using the Game.
+
+Developer: Zheng Qian
+
+Contact: kokomoon.guan@gmail.com
+
+Effective Date: November 21, 2026
+
+Privacy Policy: Read our Privacy Policy
+
+These Terms of Service and End User License Agreement (“Terms”) govern your access to and use of Jigsaw Glow (the “Game”), provided by Zheng Qian (“we,” “us,” or “our”). By downloading, accessing, or using the Game, you agree to these Terms. If you do not agree, do not use the Game.
+
+1. The Game and No Account
+
+The Game does not require you to create an account or sign in. Game progress and certain game information are stored locally on your device. You are responsible for maintaining your device and any available backups. Deleting the Game, changing devices, or resetting your device may result in the loss of locally stored information.
+
+We may update, modify, suspend, or discontinue parts of the Game where reasonably necessary, including for maintenance, security, legal, or operational reasons. The Game and its features are provided as they currently exist and may change over time.
+
+2. Purchases and Pricing
+
+All in-app purchases are offered and processed by Apple through the App Store and Apple's in-app purchase system. We do not collect or process your payment card details.
+
+The price, currency, and applicable taxes are those displayed by the App Store at the time you confirm your purchase. Prices may vary by country or region and may change over time. Apple's purchase, billing, refund, and payment terms also apply. For purchase or refund assistance, you may need to contact Apple.
+
+3. Auto-Renewable Subscriptions
+
+The Game may offer weekly, monthly, and yearly auto-renewable subscriptions. All subscription durations provide the same in-game benefits; only the subscription period and price differ.
+
+While your subscription is active, you will not see interstitial or rewarded advertisements. You will have unlimited hints and access to subscription-enabled card backs.
+
+Subscriptions automatically renew for the same duration unless cancelled at least 24 hours before the end of the current subscription period. Your Apple Account will be charged for renewal within the 24 hours before the current period ends, at the price displayed by the App Store for the renewal.
+
+You can manage or cancel your subscription at any time in your Apple Account subscription settings. To avoid the next renewal charge, cancel at least 24 hours before the current subscription period ends. Deleting the Game does not cancel your subscription.
+
+When your subscription expires or is no longer active, rewarded advertisements may become available again when your hint inventory is depleted, unless you have another applicable benefit. Interstitial advertisements may also resume unless you have an active Remove Ads purchase. Unlimited hints and subscription-enabled card backs end when the subscription ends. Card backs you already bought with coins remain available.
+
+4. Remove Ads — One-Time Purchase
+
+Remove Ads is a one-time, non-consumable purchase. It removes interstitial advertisements from the Game. It does not provide a subscription, unlimited hints, or subscription-only card backs, and it does not remove optional rewarded video advertisements that you choose to watch in exchange for an in-game reward.
+
+Remove Ads remains associated with the eligible Apple purchase and may be restored using the Restore option in the Game, subject to Apple's purchase records and eligibility rules.
+
+5. Virtual Items and Game Currency
+
+The Game may include virtual items and features such as coins, hints, and card backs (“Virtual Items”). Virtual Items are licensed for use only within the Game. They have no cash value, are not real-world currency, cannot be redeemed for money or other goods outside the Game, and may not be sold, transferred, gifted, or exchanged outside the Game.
+
+Card backs acquired with in-game coins remain available to you after a subscription expires, subject to the continued availability and operation of the Game. Subscription-enabled card backs are available only while the applicable subscription is active, unless you have separately acquired those card backs with coins.
+
+Virtual Items do not represent property, a deposit, or a right to receive money. We may make reasonable changes to the availability, balance, or functionality of Virtual Items where necessary to operate, maintain, or improve the Game, subject to applicable law and any rights that cannot lawfully be excluded.
+
+6. Restore Purchases
+
+The Restore option in the Game is provided to restore eligible purchases made through your Apple Account, such as the Remove Ads purchase or an active subscription. Restoration is subject to Apple's purchase records, the Apple Account used for the original purchase, and Apple's systems. Restore does not restore coins or other locally stored game progress unless Apple or the Game specifically supports restoration of that item.
+
+7. Advertisements
+
+The Game may display advertisements, including interstitial advertisements and optional rewarded video advertisements. The availability and delivery of advertisements depend on your region, privacy choices, device settings, and applicable consent requirements. Our collection and use of information for analytics and advertising are described in our Privacy Policy , which forms part of the information governing your use of the Game.
+
+The subscription and Remove Ads rules in sections 3 and 4 decide which advertisements are shown.
+
+8. License to Use the Game
+
+Subject to your compliance with these Terms, we grant you a limited, personal, non-exclusive, non-transferable, non-sublicensable license to download and use the Game on Apple-branded devices that you own or control, solely for your personal, non-commercial use and in accordance with Apple's applicable usage rules.
+
+You may not copy, modify, distribute, sell, lease, sublicense, reverse engineer, decompile, or attempt to extract the source code of the Game, except to the extent such restriction is prohibited by applicable law or you have our prior written permission. You may not misuse the Game, interfere with its operation, circumvent purchase or advertising controls, or use it in violation of applicable law.
+
+The Game and its design, software, text, graphics, artwork, audio, trademarks, and other content are owned by or licensed to us and are protected by intellectual property laws. No rights are granted except those expressly stated in these Terms.
+
+9. Third-Party Services and Apple
+
+The Game may rely on third-party services, including Apple's App Store and StoreKit and advertising or analytics providers. Your use of third-party services may also be subject to their terms and policies.
+
+These Terms are between you and Zheng Qian, not Apple. Apple is not responsible for the Game or its content, maintenance, or support. To the extent required by Apple's standard EULA requirements, Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce the applicable provisions against you as a third-party beneficiary.
+
+10. Support, Disclaimers, and Liability
+
+For questions or support relating to the Game, contact us at kokomoon.guan@gmail.com . We are responsible for providing any support or warranties relating to the Game to the extent required by applicable law.
+
+To the maximum extent permitted by applicable law, the Game is provided “as is” and “as available,” without warranties of any kind, whether express or implied. We do not guarantee that the Game will always be available, uninterrupted, error-free, or compatible with every device or operating system version.
+
+To the maximum extent permitted by applicable law, we will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits, or goodwill arising from your use of the Game. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including mandatory consumer rights.
+
+11. Suspension and Termination
+
+You may stop using the Game at any time by deleting it from your device. We may suspend or restrict access to the Game or relevant features if reasonably necessary to address misuse, security risks, legal requirements, or operational issues. Termination does not affect provisions that by their nature should continue, including intellectual property, disclaimers, liability limitations, and dispute-related provisions, subject always to applicable law.
+
+12. Governing Law and Consumer Rights
+
+These Terms are governed by the laws of the People's Republic of China, without regard to its conflict-of-law rules, except to the extent that the mandatory consumer protection laws of the country or region where you habitually reside require otherwise.
+
+Any dispute shall be submitted to a court of competent jurisdiction, subject to any mandatory rights you may have under the laws of your country or region of residence to bring a claim before its courts or to benefit from its consumer protection laws. Nothing in this section limits any consumer right that cannot lawfully be waived or restricted.
+
+13. Changes to These Terms
+
+We may update these Terms from time to time. When we do, we will revise the Effective Date shown at the top of this page. Where required by applicable law, we will provide notice of material changes or obtain your consent. Your continued use of the Game after updated Terms take effect means that you accept the updated Terms to the extent permitted by applicable law.
+
+14. Contact
+
+If you have questions about these Terms, please contact:
+
+Zheng Qian
+Email: kokomoon.guan@gmail.com
+
+© 2026 Zheng Qian. All rights reserved.
+
+Privacy Policy
