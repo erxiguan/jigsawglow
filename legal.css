@@ -1,15 +1,11 @@
 :root {
   color-scheme: light;
-  --paper: #E5DCC7;
-  --card: #F9F6F0;
-  --band: #EFE6D8;
+  --paper: #F9F6F0;
   --ink: #2C2C2C;
   --title: #6B5344;
   --muted: rgba(44, 44, 44, 0.55);
-  --line: rgba(0, 0, 0, 0.08);
   --rule: rgba(44, 44, 44, 0.12);
   --link: #6F8F62;
-  --shadow: rgba(38, 31, 26, 0.15);
   --serif: ui-serif, "New York", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
   --sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
 }
@@ -18,52 +14,15 @@
 
 body {
   margin: 0;
-  padding: 42px 18px 56px;
+  padding: 36px 18px 56px;
   background: var(--paper);
   color: var(--ink);
   font: 16px/1.6 var(--sans);
 }
 
-body::before,
-body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: -1;
-}
-
-body::before {
-  background: url("linen.jpg") center / cover no-repeat;
-  opacity: 0.3;
-}
-
-body::after {
-  background: var(--paper);
-  opacity: 0.22;
-}
-
 main {
-  max-width: 780px;
+  max-width: 720px;
   margin: 0 auto;
-  padding: 36px clamp(22px, 5vw, 52px) 28px;
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: 22px;
-  box-shadow: 0 6px 8px var(--shadow);
-}
-
-.pager {
-  display: flex;
-  gap: 18px;
-  margin: 0 0 22px;
-  font-size: 14px;
-  font-weight: 600;
-}
-
-.pager a[aria-current="page"] {
-  color: var(--ink);
-  text-decoration: none;
 }
 
 .eyebrow {
@@ -87,7 +46,7 @@ h1 {
 }
 
 .subtitle {
-  margin: 0 0 22px;
+  margin: 0;
   color: var(--ink);
   font-family: var(--serif);
   font-size: 14px;
@@ -96,15 +55,11 @@ h1 {
   opacity: 0.72;
 }
 
-.meta {
-  margin: 0 0 26px;
-  padding: 14px 16px;
-  background: var(--band);
-  border-radius: 16px;
-  font-size: 14px;
+.effective {
+  margin: 10px 0 26px;
+  color: var(--muted);
+  font-size: 13px;
 }
-
-.meta p { margin: 3px 0; }
 
 a {
   color: var(--link);
@@ -131,16 +86,15 @@ ul {
 li { margin: 6px 0; }
 
 footer {
-  margin-top: 32px;
+  margin-top: 36px;
   padding-top: 16px;
   border-top: 1px solid var(--rule);
   color: var(--muted);
-  font-size: 13px;
+  font-size: 14px;
 }
 
 footer a { font-weight: 600; }
 
 @media (max-width: 520px) {
-  body { padding: 14px 10px 28px; }
-  main { padding: 24px 18px 20px; border-radius: 18px; }
+  body { padding: 22px 18px 36px; }
 }

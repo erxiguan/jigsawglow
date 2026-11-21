@@ -1,16 +1,10 @@
-Terms of Service & EULA — Jigsaw Glow Jigsaw Glow
-Terms of Service &
-End User License Agreement
+Jigsaw Glow
+
+Terms of Service & End User License Agreement
 
 Please read these terms before using the Game.
 
-Developer: Zheng Qian
-
-Contact: kokomoon.guan@gmail.com
-
-Effective Date: November 21, 2026
-
-Privacy Policy: Read our Privacy Policy
+Effective date: November 21, 2026
 
 These Terms of Service and End User License Agreement (“Terms”) govern your access to and use of Jigsaw Glow (the “Game”), provided by Zheng Qian (“we,” “us,” or “our”). By downloading, accessing, or using the Game, you agree to these Terms. If you do not agree, do not use the Game.
 
@@ -58,7 +52,7 @@ The Restore option in the Game is provided to restore eligible purchases made th
 
 7. Advertisements
 
-The Game may display advertisements, including interstitial advertisements and optional rewarded video advertisements. The availability and delivery of advertisements depend on your region, privacy choices, device settings, and applicable consent requirements. Our collection and use of information for analytics and advertising are described in our Privacy Policy, which forms part of the information governing your use of the Game.
+The Game may display advertisements, including interstitial advertisements and optional rewarded video advertisements. The availability and delivery of advertisements depend on your region, privacy choices, device settings, and applicable consent requirements. Our collection and use of information for analytics and advertising are described in our Privacy Policy (https://erxiguan.github.io/jigsawglow/), which forms part of the information governing your use of the Game.
 
 The subscription and Remove Ads rules in sections 3 and 4 decide which advertisements are shown.
 
@@ -78,7 +72,7 @@ These Terms are between you and Zheng Qian, not Apple. Apple is not responsible 
 
 10. Support, Disclaimers, and Liability
 
-For questions or support relating to the Game, contact us at kokomoon.guan@gmail.com . We are responsible for providing any support or warranties relating to the Game to the extent required by applicable law.
+For questions or support relating to the Game, contact us at kokomoon.guan@gmail.com. We are responsible for providing any support or warranties relating to the Game to the extent required by applicable law.
 
 To the maximum extent permitted by applicable law, the Game is provided “as is” and “as available,” without warranties of any kind, whether express or implied. We do not guarantee that the Game will always be available, uninterrupted, error-free, or compatible with every device or operating system version.
 
@@ -106,5 +100,3 @@ Zheng Qian
 Email: kokomoon.guan@gmail.com
 
 © 2026 Zheng Qian. All rights reserved.
-
-Privacy Policy
