@@ -58,7 +58,7 @@ The Restore option in the Game is provided to restore eligible purchases made th
 
 7. Advertisements
 
-The Game may display advertisements, including interstitial advertisements and optional rewarded video advertisements. The availability and delivery of advertisements depend on your region, privacy choices, device settings, and applicable consent requirements. Our collection and use of information for analytics and advertising are described in our Privacy Policy , which forms part of the information governing your use of the Game.
+The Game may display advertisements, including interstitial advertisements and optional rewarded video advertisements. The availability and delivery of advertisements depend on your region, privacy choices, device settings, and applicable consent requirements. Our collection and use of information for analytics and advertising are described in our Privacy Policy, which forms part of the information governing your use of the Game.
 
 The subscription and Remove Ads rules in sections 3 and 4 decide which advertisements are shown.
 
